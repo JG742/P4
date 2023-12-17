@@ -1,0 +1,14 @@
+/*DEVELOPER: Jerry Garcia, IS117-005, Fall 2023*/
+
+header
+{
+    background-color: #034836;
+    color: #4c0bc5;
+    text-align: center;
+    padding: 1em;
+}
+main #message{
+    height: 200px;
+    text-align:start;
+    background-color: #22da56;
+}

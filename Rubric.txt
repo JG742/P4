@@ -1,0 +1,121 @@
+SITE REQUIREMENTS:
+-All pages committed in P2 are actually built.
+
+P2:
+Homepage
+
+2ndtier:
+Woman
+3rdtier:
+Women's Apparel / Women's footwear / women's accessories
+
+2nd tier:
+Men
+3rd tier:
+Men's apparel / Men's footwear / Men's accessories
+
+2nd tier: 
+Youth
+3rd tier:
+baby kids 
+
+2nd tier:
+Homegoods
+3rd tier:
+food / Bath / Home and Garden
+
+2nd tier:
+cart
+About us
+Contact us
+
+-Footer spans site with copyright, Terms of service, etc.
+-Homepage uses a different style than interior pages
+-Be responsive. The images and text must change size as the viewport size changes.
+-Use Media Queries to determine when to adapt to screen size changes. You only have to adapt to one size change. It is not necessary to adapt for a tablet and a mobile device. Adapt for the smaller sized mobile device.
+-Uses Bootstrap to implement the layout.
+-Use Cards on your homepage.
+-Basic Menu bar is used on all pages.
+-Dropdown navigation used
+-Responsive menu must activate. At the narrower viewport size, the Bootstrap mobile navigation must become visible. If you have implemented Bootstrap correctly this menu will appear automatically.
+-Contact form is built using several fields and a submit button. The submit button does not actually have to work.
+-Content written using proper grammar and spelling.  The beginning of the each page must have at least one paragraph of your original written content. For spacing after that first paragraph, Lorem Ipsum may be used.
+-Float is used to wrap content around images.
+-All links work on all pages. Links to pages outside of the site open in separate tab.
+-Use lists to help your content to be more readable.
+-Images are used properly and are responsive. Images that are part of the content message use Alt tags for the visually impaired.
+-Proper use of spacing of margins, borders, and padding. No content should leak over any border.
+-Font size is readable. Should be at least .75 em. 
+-Must be visually appealing with good color-background-contrast.  Dark text on a light background is easiest to read. 
+-Website Logo returns all pages to home page.
+-Submit the Github pages link to your site to Canvas.
+-Submit the HTML, CSS, and Javascript files that you created to Github. 
+-Submit the GIT repository link to Canvas.
+-Have a proper header on each submitted HTML and CSS files that you create. You do not have to submit the Bootstrap libraries. 
+For example:
+In the HTML files:
+<!-- DEVELOPER: your name here, IS117-xxx, Fall 2018 -->
+In the CSS files that you develop:
+/*DEVELOPER: your name here, IS117-xxx, Semester, Year */
+For example:
+/* DEVELOPER Art Hendela, IS117-004, Spring 2018 */
+
+SUBMISSION DESCRIPTION:
+Part 4: Develop the actual pages
+For Part 4, please submit the following:
+1) A link to your site on Github pages.
+2) A link to the Git repository containing all code for your site. The Git repository must be registered to you.
+
+Each project must be at least 5-6 pages and have the following:
+-You must use Bootstrap.
+-You must use Cards as part of your design.
+-Your home page template must be different than the interior pages.
+-You must have one interior page below another in the navigation menu in order to show 2-tier navigation.
+-You must have a contact form. The contact form does not have to submit to a database, but must have all of the elements such text fields and a submit button.
+-You design must be responsive so that when the project is viewed on a smaller width device, the fonts and images scale. Sections, Asides, Divisions must all float.
+-Responsive navigation must be implemented when the menu is viewed in a smaller viewport. Bootstrap provides this automatically.
+-Again, you must use Bootstrap for your development.
+
+You must have comment in each file with your name and course number.
+
+Example:
+
+In the HTML files:
+
+<!-- DEVELOPER: your name here, IS117-xxx, Spring 2021 ->
+
+In the CSS files that you develop:
+
+/*DEVELOPER: your name here, IS117-xxx, Semester, Year */
+
+For example:
+
+/* DEVELOPER Art Hendela, IS117-004, Spring 2021 */
+
+RUBRIC:
+	
+IS 117 RUBRIC – Final Project
+
+
+
+
+05      Design: Homepage uses different style than interior page
+10      Design: Fully responsive to size change. Images use Alt tag
+10      Layout: Uses Cards on Homepage. No stock templates used.
+05      Link: All links work
+05      Page: Content written well / Lorem Ipsum used.
+10      Page: Visually appealing / color-background-contrast
+05      Page: Use of spacing / margins / padding
+05      Page: Font size readable
+10      Display: All pages stored and displayed with Github
+        (CSS files in Styles Folder, Pictures in Images folder, HTML files in root or html folder. Other pages in appropriate separate folders as needed.)
+
+upto
+-100    PENALTY: ALL Pages NOT developed with Bootstrap
+        {Other deductions Late penalty, All pages NOT developed with Bootstrap (Up to -100 for no bootstrap) , etc.}
+    
+FINSIHED OFF RUBRIC
+05      Page: Contact form with several fields and submit button
+20  	Design: Committed pages from P2 actually built
+05      Nav: Basic navigation bar used on all pages with dropdown
+05      Design: Bootstrap Footer spans site with copyright, Term of use, etc. Uses Sticky format provided

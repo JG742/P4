@@ -1,0 +1,11 @@
+/*DEVELOPER: Jerry Garcia, IS117-005, Fall 2023*/
+
+.navbar-brand img 
+{
+    max-height: 95px;
+    max-width: 95px;
+    margin: 0 auto;
+    padding: 0 10px 0px 0px;
+}
+
+  
